@@ -2,8 +2,6 @@
 import Projects from "@/components/Projects";
 import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
-import Leadership from "@/components/Leadership";
-// import Projects from "@/components/Projects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { FaHome } from "react-icons/fa";
 import Approach from "@/components/Approach";

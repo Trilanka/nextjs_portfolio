@@ -28,12 +28,6 @@ const Hero = () => {
       </div>
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
-          
-          {/**
-           *  Link: https://ui.aceternity.com/components/text-generate-effect
-           *
-           *  change md:text-6xl, add more responsive code
-           */}
           <TextGenerateEffect
             words="Driven Software Engineer Ready to Elevate Your Team"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
@@ -43,7 +37,7 @@ const Hero = () => {
             Hi! I&apos;m Trilanka, a Full Stack Developer based in Colombo, Sri Lanka.
           </p>
 
-          <a href="#about">
+          <a href="about">
             <MagicButton
               title="Description on ME"
               icon={<FaLocationArrow />}
