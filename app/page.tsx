@@ -6,6 +6,7 @@ import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import { FaHome } from "react-icons/fa";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
+import Techstack from "@/components/Techstack";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <Projects />
       {/* <Leadership /> */}
       <Approach />
+      <Techstack />
       <Footer />
     </div>
   </main>

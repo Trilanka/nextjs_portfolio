@@ -1,6 +1,5 @@
 import React from "react";
 
-import { reProjects } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
 const Projects = () => {
