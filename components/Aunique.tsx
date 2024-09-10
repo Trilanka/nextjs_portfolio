@@ -16,14 +16,12 @@ const Aunique = () => {
 
             <div className='w-full lg:w-1/3'>
                 <div className='flex font-light tracking-tighter justify-center lg:justify-start '>
-                    <p className='my-2 max-w-xl py-6'>I am eager to learn and i am a Fast Learner! 
-                        This win related to a drone project, i learned 
-                        this technology because i was Engage with a project to develop a 
-                        AI model to control drone. So i also learned this technology and
-                        got a win from one of the main contest in dronein the country! So yeah I would
-                        say I am A fast tech Learner you know why? Because I Loved It! 
-                    </p>
-                </div>
+                    <p className='my-2 max-w-xl py-6'>
+                        I'm a quick learner, especially when it comes to tech! I recently won a major drone competition, all 
+                        thanks to a project where I had to develop an AI model to control drones. I jumped right into 
+                        learning the technology, and it paid off! Honestly, I think the reason I pick up new skills so fast 
+                        is simple.. I love what I do! </p>
+                </div> 
             </div>
       </div>
     </div>

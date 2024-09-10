@@ -2,6 +2,7 @@ import React from 'react'
 import { Button } from './ui/MovingBorders'
 import MagicButton from './MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
+import { LinkIcon } from '@heroicons/react/24/solid';
 
 const Footer = () => {
   return (
@@ -13,10 +14,10 @@ const Footer = () => {
         <p className="text-white-200 md:mt-10 text-center">Reach out to me, If you Find Me Good For your employment requirements.</p>
         
         
-        <a href="tstrilanka@gmail.com">
+        <a href="https://www.linkedin.com/in/trilanka-beddegama-245359192/">
         <MagicButton 
           title={"Let's Get In Touch"} 
-          icon={<FaLocationArrow />} 
+          icon={<LinkIcon className="h-6 w-6 text-blue-700" />} 
           position={'right'} 
         />
       </a>
