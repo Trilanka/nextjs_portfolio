@@ -50,11 +50,12 @@ const Projects = () => {
                 <div>
                     <div className="p-4">
                         <h1 className="text-start text-xl md:text-2xl font-bold">
-                            Student Management System
+                            Booking system 
                         </h1>
                         <p className="text-start text-white-100 mt-3 font-semibold">
-                            In this project i amengage with get an experience on basic data management
-                            systems and ER diagrams. Also I got experience on database management and nomalization.
+                        This is my latest project, which I started at the beginning of September 2024. I took on this project from a friend who
+                        needed an online booking platform for several villas in the southern region. My goal 
+                        is to develop it into an advanced platform, similar to popular ones like Airbnb, by learning everything from the ground up.
                         </p>
                     </div>
                 </div>
@@ -76,34 +77,7 @@ const Projects = () => {
                 <div>
                     <div className="p-4">
                         <h1 className="text-start text-xl md:text-2xl font-bold">
-                            Student Management System
-                        </h1>
-                        <p className="text-start text-white-100 mt-3 font-semibold">
-                            In this project i amengage with get an experience on basic data management
-                            systems and ER diagrams. Also I got experience on database management and nomalization.
-                        </p>
-                    </div>
-                </div>
-                
-            </Button>
-
-
-            <Button
-                duration={Math.floor(Math.random() * 10000) + 10000}
-                borderRadius="1.75rem"
-                style={{
-                background: "rgb(4,7,29)",
-                backgroundColor:
-                    "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
-                borderRadius: `calc(1.75rem * 0.96)`,
-                }}
-                className="flex min-w-[40%] lg:basis-[40%] md:basis-[45%] h-[250px] text-black 
-                dark:text-white border-neutral-200 dark:border-slate-800 justify-start items-center"
-            >
-                <div>
-                    <div className="p-4">
-                        <h1 className="text-start text-xl md:text-2xl font-bold">
-                            Student Management System
+                           Library Management System
                         </h1>
                         <p className="text-start text-white-100 mt-3 font-semibold">
                             In this project i amengage with get an experience on basic data management
@@ -130,7 +104,34 @@ const Projects = () => {
                 <div>
                     <div className="p-4">
                         <h1 className="text-start text-xl md:text-2xl font-bold">
-                            Student Management System
+                            Personal Portfolio
+                        </h1>
+                        <p className="text-start text-white-100 mt-3 font-semibold">
+                        I completed this portfolio project in three weeks of hard work. 
+                        Before this, I did not have much experience with UI/UX design, but this project helped me grasp the basics.
+                        </p>
+                    </div>
+                </div>
+                
+            </Button>
+
+
+            <Button
+                duration={Math.floor(Math.random() * 10000) + 10000}
+                borderRadius="1.75rem"
+                style={{
+                background: "rgb(4,7,29)",
+                backgroundColor:
+                    "linear-gradient(90deg, rgba(4,7,29,1) 0%, rgba(12,14,35,1) 100%)",
+                borderRadius: `calc(1.75rem * 0.96)`,
+                }}
+                className="flex min-w-[40%] lg:basis-[40%] md:basis-[45%] h-[250px] text-black 
+                dark:text-white border-neutral-200 dark:border-slate-800 justify-start items-center"
+            >
+                <div>
+                    <div className="p-4">
+                        <h1 className="text-start text-xl md:text-2xl font-bold">
+                            Stock Price Predicting Algorithm
                         </h1>
                         <p className="text-start text-white-100 mt-3 font-semibold">
                             In this project i amengage with get an experience on basic data management
@@ -156,11 +157,11 @@ const Projects = () => {
                 <div>
                     <div className="p-4">
                         <h1 className="text-start text-xl md:text-2xl font-bold">
-                            Student Management System
+                            Sentiment analysis Project
                         </h1>
                         <p className="text-start text-white-100 mt-3 font-semibold">
-                            In this project i amengage with get an experience on basic data management
-                            systems and ER diagrams. Also I got experience on database management and nomalization.
+                        This Sentiment Analysis project kickstarted my studies in NLP. As a foundational aspect of NLP, 
+                        it gave me a solid understanding of how language can be integrated into AI and ML.
                         </p>
                     </div>
                 </div>
