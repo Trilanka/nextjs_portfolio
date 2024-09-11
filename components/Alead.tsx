@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image';
 
 const Alead = () => {
   return (
@@ -19,7 +20,7 @@ const Alead = () => {
                 with people.
                 </p>
                 <div className='ml-20'>
-                <img src="/lead.jpg" alt="i dont" className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'/>
+                <Image src="./lead.jpg" alt="i dont" className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'/>
                 </div>
                 
             </div>

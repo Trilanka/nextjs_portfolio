@@ -1,5 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
+import Image from 'next/image';
 
 const AHero = () => {
   return (
@@ -21,7 +22,7 @@ const AHero = () => {
             <div className="w-full lg:w-1/2 lg:p-8 ">
 
                 <div className="flex lg:justify-end md:justify-center ">
-                    <img src="/profile.png" alt="trilanka" className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'/>
+                    <Image src="./profile.png" alt="trilanka" className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'/>
                 </div>
 
             </div>

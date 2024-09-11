@@ -1,4 +1,6 @@
 import React from 'react'
+import Image from 'next/image';
+import win from '../public/win.jpg';
 
 const Aunique = () => {
   return (
@@ -10,7 +12,11 @@ const Aunique = () => {
         <div className='flex flex-wrap'>
             <div className='w-full lg:w-1/2 lg:p-8 h-1/3'>
                 <div className='flex justify-center items-center overflow-auto'>
-                    <img src="/win.jpg" alt="Trilanka" className='rounded-2xl w-80'/>
+                    <Image 
+                    src="win" 
+                    alt="Trilanka" 
+                    className='rounded-2xl w-80' 
+                    />
                 </div>
             </div>
 
