@@ -2,6 +2,7 @@ import React from 'react'
 import { StickyScroll } from './ui/sticky-scroll-reveal';
 import { title } from 'process';
 import { Content } from 'next/font/google';
+import Image from 'next/image';
 
 
 const Leadership = () => {
@@ -38,7 +39,7 @@ const Leadership = () => {
 
       <div>
 
-        <StickyScroll content={cont} contentClassName='<img src = "one.jpg">' />
+        <StickyScroll content={cont} contentClassName='<Image src = "one.jpg">' />
 
 
       </div>
