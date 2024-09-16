@@ -22,7 +22,13 @@ const AHero = () => {
             <div className="w-full lg:w-1/2 lg:p-8 ">
 
                 <div className="flex lg:justify-end md:justify-center ">
-                    <Image src="./profile.png" alt="trilanka" className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'/>
+                    <Image 
+                        src="./profile.png" 
+                        alt="trilanka" 
+                        className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'
+                        width={100}
+                        height={100}
+                    />
                 </div>
 
             </div>

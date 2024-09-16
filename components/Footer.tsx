@@ -11,7 +11,7 @@ const Footer = () => {
         <h1 className="heading lg:mx-w-[45vw]">
           Ready To take <span className='text-pink-300'>your</span> Digital Presence Into Next Level?
           </h1>
-        <p className="text-white-200 md:mt-10 text-center">Reach out to me, If you Find Me Good For your employment requirements.</p>
+        <p className="text-white-200 md:mt-10 text-center">Feel free to reach out if you believe I am a good fit for your employment needs.</p>
         
         
         <a href="https://www.linkedin.com/in/trilanka-beddegama-245359192/">

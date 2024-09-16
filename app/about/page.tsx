@@ -15,7 +15,6 @@ export default function Home() {
 
     {/* Now on add the components to the page */}
     <div className=" max-w-7xl w-full">
-        <ANavBar />
         <AHero />
         <Aunique />
         <Alead/>

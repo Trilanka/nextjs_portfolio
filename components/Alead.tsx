@@ -20,7 +20,12 @@ const Alead = () => {
                 with people.
                 </p>
                 <div className='ml-20'>
-                <Image src="./lead.jpg" alt="i dont" className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'/>
+                <Image 
+                src="./lead.jpg" 
+                alt="i dont" 
+                className='w-auto h-80 max-w-full max-h-full object-contain rounded-xl'
+                width={100}
+                height={100}/>
                 </div>
                 
             </div>

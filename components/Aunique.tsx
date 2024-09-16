@@ -13,9 +13,11 @@ const Aunique = () => {
             <div className="w-full lg:w-1/2 lg:p-8 h-1/3">
                 <div className="flex justify-center items-center overflow-auto">
                     <Image 
-                    src="win" 
+                    src="/win.jpg" 
                     alt="Trilanka" 
                     className="rounded-2xl w-80" 
+                    width={100}
+                    height={100}
                     />
                 </div>
             </div>
