@@ -10,7 +10,7 @@ const Approach = () => {
       <div className='flex justify-center items-center '>
         <div className=' h-full relative pt-30 flex flex-col w-1/2 gap-y-6 items-center justify-center gap-x-4'>
           <div className='flex lg:items-center lg:justify-center sm:items-start justify-center sm: items-start sm:justify-start'>
-            <div className="absolute top-0 bottom-0 left-1/2 transform -translate-x-1/2 w-1 bg-black px-8"></div>
+            <div className="absolute top-0 bottom-0 left-1/2 transform -translate-x-1/2 w-1 bg-black"></div>
           </div>
           <div className='text-black-200 gap-4'>
             <div className=' w-1/2 rounded-xl flex flex-col lg:items-end pr-8 border border-rose-400  text-center'>
