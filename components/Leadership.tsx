@@ -1,7 +1,5 @@
 import React from 'react'
 import { StickyScroll } from './ui/sticky-scroll-reveal';
-import { title } from 'process';
-import { Content } from 'next/font/google';
 import Image from 'next/image';
 
 
@@ -26,7 +24,7 @@ const Leadership = () => {
       description: `Experience real-time updates and never stress about version control again. Our platform ensures that you're always 
       working on the most recent version of your project, eliminating the need for constant manual updates. Stay in the loop, keep your 
       team aligned, and maintain the flow of your work without any interruptions.`,
-      content: <img src="/bg.png" alt="Real-time changes" className="w-full h-full object-cover" />,
+      content: <Image src="/bg.png" alt="Real-time changes" width={600} height={400} className="w-full h-full object-cover" />,
     }
     
   ];

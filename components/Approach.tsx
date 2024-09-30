@@ -24,16 +24,16 @@ const Approach = () => {
             <div className='w-1/2 rounded-xl ml-auto pl-8' >
               <h1 className='text-white-200 font-bold text-xl tracking-tighter'>System Design</h1>
               <p className='text-violet-300 font-light tracking-tighter pt-5'>
-              As an engineer, I believe it's essential to have skills in not just implementation, but also in planning and design. 
-              That's why I'm studying system design theories to gain the knowledge and tools needed to effectively design complex
+              As an engineer, I believe it is essential to have skills in not just implementation, but also in planning and design. 
+              That is why I am studying system design theories to gain the knowledge and tools needed to effectively design complex
               systems. 
               </p>
             </div>
             <div className='w-1/2 rounded-xl flex flex-col items-end pr-8 text-right'>
               <h1 className='text-white-200 font-bold text-xl tracking-tighter'>Programming Language</h1>
               <p className='text-violet-300 font-light tracking-tighter pt-5'>
-              I believe it's crucial to not only understand how to implement solutions but also to have a deep understanding of 
-              the programming languages behind them. That's why I'm continually learning and refining my skills in various 
+              I believe it is crucial to not only understand how to implement solutions but also to have a deep understanding of 
+              the programming languages behind them. That is why I am continually learning and refining my skills in various 
               programming languages.
               </p>
             </div>
@@ -49,14 +49,14 @@ const Approach = () => {
               <p className='text-violet-300 font-light tracking-tighter pt-5'>
               I understand that thorough testing is vital for building reliable software. 
               I am dedicated to learning different testing methodologies and tools to ensure 
-              that my projects are robust and error-free. 
+              that my projects are robust and error free. 
               </p>
             </div>
             <div className='w-1/2 rounded-xl ml-auto pl-8'>
               <h1 className='text-white-200 font-bold text-xl tracking-tighter'>Version Control</h1>
               <p className='text-violet-300 font-light tracking-tighter pt-5'>
               I believe that efficient project management is key, and version control plays a crucial role in this. 
-              By learning version control systems like Git, I'm enhancing my ability to manage codes.
+              By learning version control systems like Git, I am enhancing my ability to manage codes.
               </p>
             </div>
             <div className='w-1/2 rounded-xl pr-8 flex flex-col items-end text-right'>
