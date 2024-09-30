@@ -8,12 +8,12 @@ const Approach = () => {
       </div>
 
       <div className='flex justify-center items-center '>
-        <div className=' h-full relative pt-30 flex flex-col w-1/2 gap-y-6 items-center justify-center'>
+        <div className=' h-full relative pt-30 flex flex-col w-1/2 gap-y-6 items-center justify-center gap-x-4'>
           <div className='flex lg:items-center lg:justify-center sm:items-start justify-center sm: items-start sm:justify-start'>
-            <div className="absolute top-0 bottom-0 left-1/2 transform -translate-x-1/2 w-1 bg-black"></div>
+            <div className="absolute top-0 bottom-0 left-1/2 transform -translate-x-1/2 w-1 bg-black px-8"></div>
           </div>
-          <div className='text-black-200'>
-            <div className=' w-1/2 rounded-xl flex flex-col lg:items-end pr-8'>
+          <div className='text-black-200 gap-4'>
+            <div className=' w-1/2 rounded-xl flex flex-col lg:items-end pr-8 border border-rose-400  text-center'>
               <h1 className='text-white-200 font-bold text-xl tracking-tighter mb-4 md:text-xl sm:text-lg'>Data structures and Algorithms</h1>
               <p className=' text-violet-300 font-light tracking-tighter pt-5 text-right'>
                 i am believing any engineering field needs the basic of what its built on so
